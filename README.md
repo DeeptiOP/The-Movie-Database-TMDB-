@@ -1,6 +1,6 @@
 # 🎬 Movies dataset template
 
-A simple Streamlit app showing movie data from [The Movie Database (TMDB)](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata). 
+A simple Streamlit app showing movie data from [The Movie Database (TMDB)](https://movies-db.streamlit.app/). 
 
 [![Streamlit App](https://movies-db.streamlit.app/)
 
